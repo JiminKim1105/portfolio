@@ -1,0 +1,3605 @@
+.empolyee {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.empolyee .empolyee-work {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1074px;
+}
+
+.empolyee .overlap {
+  position: relative;
+  width: 1226px;
+  height: 951px;
+  top: -2px;
+  left: 128px;
+}
+
+.empolyee .haeder {
+  position: absolute;
+  width: 1154px;
+  height: 130px;
+  top: 0;
+  left: 18px;
+}
+
+.empolyee .overlap-group {
+  position: relative;
+  width: 1146px;
+  height: 130px;
+  background-color: #ffffff;
+}
+
+.empolyee .text-wrapper {
+  position: absolute;
+  top: 71px;
+  left: 244px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: var(--font);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.dropdown-submenu{
+  width: 150px;
+  top: 30px;
+  left: -37px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.192);
+  display: none;
+  position: absolute;
+  z-index: 1;
+  
+}
+.dropdown-submenu a{
+  display: block;
+  padding: 7px;
+  text-align: center;
+  font-size: medium;
+}
+
+.dropdown-submenu a:hover{
+  background-color: #85C5FF;
+}
+
+.empolyee .text-wrapper:hover .dropdown-submenu{
+  display: block;
+}
+
+.empolyee .div {
+  position: absolute;
+  top: 71px;
+  left: 361px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: var(--font);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-2 {
+  top: 71px;
+  left: 477px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: var(--font);
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-3 {
+  top: 71px;
+  left: 1061px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #2c2c2c;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .group {
+  position: absolute;
+  width: 230px;
+  height: 80px;
+  top: 33px;
+  left: 1px;
+}
+
+.empolyee .overlap-group-2 {
+  position: relative;
+  width: 227px;
+  height: 81px;
+  top: -1px;
+}
+
+.empolyee .working-schedule {
+  position: absolute;
+  width: 75px;
+  height: 62px;
+  top: 19px;
+  left: 0;
+}
+
+.empolyee .text-wrapper-4 {
+  position: absolute;
+  z-index: 1;
+  width: 156px;
+  top: 0;
+  left: 71px;
+  text-shadow: 0px 2px 2px #00000040;
+  -webkit-text-stroke: 1px #f1de31;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #f1de31;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.empolyee .img {
+  position: absolute;
+  width: 1183px;
+  height: 819px;
+  top: 129px;
+  left: 14px;
+}
+
+.empolyee .rectangle-2 {
+  position: absolute;
+  width: 81px;
+  height: 35px;
+  top: 822px;
+  left: 84px;
+  background-color: #f8cecc;
+  border: 1px solid;
+  border-color: #b85450;
+}
+
+.empolyee .rectangle-3 {
+  position: absolute;
+  width: 81px;
+  height: 103px;
+  top: 720px;
+  left: 84px;
+  background-color: #d5e8d4;
+  border: 1px solid;
+  border-color: #82b366;
+}
+
+.empolyee .rectangle-4 {
+  position: absolute;
+  width: 81px;
+  height: 103px;
+  top: 618px;
+  left: 84px;
+  background-color: #dae8fc;
+  border: 1px solid;
+  border-color: #6c8ebf;
+}
+
+.empolyee .rectangle-5 {
+  position: absolute;
+  width: 81px;
+  height: 35px;
+  top: 555px;
+  left: 84px;
+  background-color: #f8cecc;
+  border: 1px solid;
+  border-color: #b85450;
+}
+
+.empolyee .rectangle-6 {
+  position: absolute;
+  width: 81px;
+  height: 103px;
+  top: 453px;
+  left: 84px;
+  background-color: #d5e8d4;
+  border: 1px solid;
+  border-color: #82b366;
+}
+
+.empolyee .rectangle-7 {
+  position: absolute;
+  width: 81px;
+  height: 103px;
+  top: 351px;
+  left: 84px;
+  background-color: #dae8fc;
+  border: 1px solid;
+  border-color: #6c8ebf;
+}
+
+.empolyee .vector {
+  position: absolute;
+  width: 1183px;
+  height: 1px;
+  top: 132px;
+  left: 0;
+  object-fit: cover;
+}
+
+.empolyee .rectangle-8 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 229px;
+  left: 164px;
+}
+
+.empolyee .rectangle-9 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 164px;
+}
+
+.empolyee .rectangle-10 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 323px;
+  left: 164px;
+  background-color: var(--off);
+  border: 1px solid;
+  border-color: #787878;
+}
+
+.empolyee .rectangle-11 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 164px;
+}
+
+.empolyee .rectangle-12 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-13 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-14 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-15 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-16 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-17 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-18 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .text-wrapper-5 {
+  width: 57px;
+  top: 491px;
+  position: absolute;
+  left: 118px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-6 {
+  width: 57px;
+  top: 558px;
+  left: 106px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .rectangle-19 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-20 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-21 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-22 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-23 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-24 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-25 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-26 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 229px;
+  left: 306px;
+}
+
+.empolyee .rectangle-27 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 306px;
+}
+
+.empolyee .rectangle-28 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 323px;
+  left: 306px;
+  background-color: var(--open);
+  border: 1px solid;
+  border-color: #787878;
+}
+
+.empolyee .rectangle-29 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 306px;
+  background-color: var(--open);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-30 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-31 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-32 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-33 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-34 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 306px;
+  background-color: var(--open);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-35 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-36 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-37 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-38 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-39 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-40 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-41 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 229px;
+  left: 450px;
+}
+
+.empolyee .rectangle-42 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 450px;
+}
+
+.empolyee .rectangle-43 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 322px;
+  left: 450px;
+  background-color: var(--open);
+  border: 1px solid;
+  border-color: #787878;
+}
+
+.empolyee .rectangle-44 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 450px;
+  background-color: var(--open);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-45 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-46 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-47 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-48 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-49 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-50 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-51 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-52 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 450px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-53 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 450px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-54 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 450px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-55 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-56 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-57 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-58 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-59 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 592px;
+}
+
+.empolyee .rectangle-60 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 322px;
+  left: 592px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-61 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 592px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-62 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-63 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-64 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-65 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 592px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-66 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-67 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-68 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-69 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-70 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-71 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 592px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-72 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-73 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-74 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-75 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-76 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 592px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-77 {
+  position: absolute;
+  width: 144px;
+  height: 94px;
+  top: 229px;
+  left: 736px;
+}
+
+.empolyee .rectangle-78 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 736px;
+}
+
+.empolyee .rectangle-79 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 322px;
+  left: 736px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: #787878;
+}
+
+.empolyee .rectangle-80 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 736px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-81 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-82 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-83 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 736px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-84 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-85 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-86 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-87 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-88 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-89 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-90 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-91 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-92 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-93 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.empolyee .rectangle-94 {
+  position: absolute;
+  width: 144px;
+  height: 94px;
+  top: 229px;
+  left: 878px;
+}
+
+.empolyee .rectangle-95 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 878px;
+}
+
+.empolyee .rectangle-96 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 322px;
+  left: 878px;
+}
+
+.empolyee .rectangle-97 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 878px;
+  background-color: var(--off);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-98 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-99 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-100 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-101 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-102 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-103 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-104 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-105 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-106 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-107 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-108 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-109 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-110 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-111 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 878px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-112 {
+  position: absolute;
+  width: 144px;
+  height: 94px;
+  top: 229px;
+  left: 1022px;
+}
+
+.empolyee .rectangle-113 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 856px;
+  left: 1022px;
+}
+
+.empolyee .rectangle-114 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 322px;
+  left: 1022px;
+  background-color: var(--off);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-115 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 589px;
+  left: 1022px;
+  background-color: var(--off);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-116 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-117 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-118 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-119 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 487px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-120 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 555px;
+  left: 1022px;
+  background-color: var(--off);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-121 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 521px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-122 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-123 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-124 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-125 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-126 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-127 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-128 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .text-wrapper-7 {
+  top: 389px;
+  position: absolute;
+  width: 12px;
+  left: 118px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-8 {
+  top: 656px;
+  position: absolute;
+  width: 12px;
+  left: 118px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-9 {
+  width: 12px;
+  top: 758px;
+  position: absolute;
+  left: 118px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-10 {
+  width: 57px;
+  top: 825px;
+  left: 106px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-11 {
+  top: 458px;
+  left: 342px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-12 {
+  top: 725px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-13 {
+  top: 793px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-14 {
+  top: 829px;
+  left: 798px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-15 {
+  top: 661px;
+  left: 770px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-16 {
+  top: 693px;
+  left: 770px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-17 {
+  top: 727px;
+  left: 772px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-18 {
+  top: 760px;
+  left: 772px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-19 {
+  top: 794px;
+  left: 772px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-20 {
+  top: 528px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-21 {
+  top: 261px;
+  left: 232px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-22 {
+  top: 888px;
+  left: 224px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-23 {
+  top: 888px;
+  left: 366px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-24 {
+  top: 888px;
+  left: 510px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-25 {
+  top: 888px;
+  left: 652px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-26 {
+  top: 888px;
+  left: 798px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-27 {
+  top: 888px;
+  left: 938px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-28 {
+  top: 888px;
+  left: 1082px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-29 {
+  top: 261px;
+  left: 374px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-30 {
+  top: 261px;
+  left: 516px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-31 {
+  top: 268px;
+  left: 660px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-32 {
+  top: 260px;
+  left: 804px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-33 {
+  top: 260px;
+  left: 948px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-34 {
+  top: 260px;
+  left: 1090px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-35 {
+  top: 322px;
+  left: 230px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-36 {
+  top: 322px;
+  left: 372px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-37 {
+  top: 321px;
+  left: 510px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-38 {
+  top: 324px;
+  left: 652px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-39 {
+  top: 322px;
+  left: 800px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-40 {
+  top: 322px;
+  left: 940px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-41 {
+  top: 322px;
+  left: 1082px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-42 {
+  top: 589px;
+  left: 224px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-43 {
+  top: 589px;
+  left: 368px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-44 {
+  top: 589px;
+  left: 510px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-45 {
+  top: 589px;
+  left: 654px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-46 {
+  top: 589px;
+  left: 798px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-47 {
+  top: 589px;
+  left: 940px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-48 {
+  top: 588px;
+  left: 1084px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .rectangle-129 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 453px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-130 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 618px;
+  left: 450px;
+  background-color: var(--open);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-131 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 450px;
+}
+
+.empolyee .rectangle-132 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 450px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-133 {
+  position: absolute;
+  width: 144px;
+  height: 95px;
+  top: 229px;
+  left: 592px;
+}
+
+.empolyee .rectangle-134 {
+  position: absolute;
+  width: 144px;
+  height: 30px;
+  top: 322px;
+  left: 592px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: #787878;
+}
+
+.empolyee .rectangle-135 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-136 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 652px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-137 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 686px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-138 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 720px;
+  left: 736px;
+  background-color: var(--close);
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-139 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 754px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-140 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 788px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-141 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 822px;
+  left: 736px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-142 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 1022px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .text-wrapper-49 {
+  top: 356px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-50 {
+  top: 390px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-51 {
+  top: 423px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .rectangle-143 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-144 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 164px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-145 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 385px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-146 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 351px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .rectangle-147 {
+  position: absolute;
+  width: 144px;
+  height: 35px;
+  top: 419px;
+  left: 306px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--variable-collection-line);
+}
+
+.empolyee .text-wrapper-52 {
+  top: 356px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-53 {
+  top: 390px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-54 {
+  top: 423px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-55 {
+  top: 458px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-56 {
+  top: 492px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-57 {
+  top: 525px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-58 {
+  top: 559px;
+  left: 224px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-59 {
+  top: 829px;
+  left: 224px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-60 {
+  top: 622px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-61 {
+  top: 658px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-62 {
+  top: 690px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-63 {
+  top: 724px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-64 {
+  top: 757px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-65 {
+  top: 791px;
+  left: 208px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-66 {
+  top: 458px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-67 {
+  top: 492px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-68 {
+  top: 525px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-69 {
+  top: 559px;
+  left: 366px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-70 {
+  top: 827px;
+  left: 368px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-71 {
+  top: 622px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-72 {
+  top: 658px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-73 {
+  top: 690px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-74 {
+  top: 724px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-75 {
+  top: 757px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-76 {
+  top: 791px;
+  left: 352px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-77 {
+  top: 357px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-78 {
+  top: 391px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-79 {
+  top: 424px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-80 {
+  top: 459px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-81 {
+  top: 493px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-82 {
+  top: 526px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-83 {
+  top: 560px;
+  left: 510px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-84 {
+  top: 827px;
+  left: 510px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-85 {
+  top: 358px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-86 {
+  top: 392px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-87 {
+  top: 425px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-88 {
+  top: 459px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-89 {
+  top: 492px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-90 {
+  top: 527px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-91 {
+  top: 560px;
+  left: 652px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-92 {
+  top: 828px;
+  left: 652px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-93 {
+  top: 624px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-94 {
+  top: 658px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-95 {
+  top: 692px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-96 {
+  top: 726px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-97 {
+  top: 759px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-98 {
+  top: 793px;
+  left: 638px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-99 {
+  top: 359px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-100 {
+  top: 391px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-101 {
+  top: 424px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-102 {
+  top: 459px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-103 {
+  top: 493px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-104 {
+  top: 526px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-105 {
+  top: 559px;
+  left: 796px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-106 {
+  top: 827px;
+  left: 796px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-107 {
+  top: 623px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-108 {
+  top: 658px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-109 {
+  top: 692px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-110 {
+  top: 726px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-111 {
+  top: 762px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-112 {
+  top: 796px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-113 {
+  top: 357px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-114 {
+  top: 391px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-115 {
+  top: 424px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-116 {
+  top: 459px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-117 {
+  top: 493px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-118 {
+  top: 526px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-119 {
+  top: 559px;
+  left: 940px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-120 {
+  top: 828px;
+  left: 938px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-121 {
+  top: 623px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-122 {
+  top: 658px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-123 {
+  top: 693px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-124 {
+  top: 727px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-125 {
+  top: 760px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-126 {
+  top: 794px;
+  left: 924px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-127 {
+  top: 355px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-128 {
+  top: 389px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-129 {
+  top: 422px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-130 {
+  top: 457px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-131 {
+  top: 491px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-132 {
+  top: 559px;
+  left: 1082px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-133 {
+  top: 828px;
+  left: 1082px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-134 {
+  top: 625px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-135 {
+  top: 658px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-136 {
+  top: 693px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-137 {
+  top: 727px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-138 {
+  top: 760px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-139 {
+  top: 794px;
+  left: 1066px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-140 {
+  top: 263px;
+  left: 660px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-141 {
+  top: 324px;
+  left: 652px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .rectangle-148 {
+  position: absolute;
+  width: 130px;
+  height: 35px;
+  top: 109px;
+  left: 240px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #358bd9;
+  box-shadow: 1px 1px 1px #00000040;
+}
+
+.empolyee .rectangle-149 {
+  position: absolute;
+  width: 130px;
+  height: 35px;
+  top: 144px;
+  left: 240px;
+  background-color: #84c4ff;
+  border: 1px solid;
+  border-color: #358bd9;
+  box-shadow: inset 0px 2px 2px #00000040;
+}
+
+.empolyee .text-wrapper-142 {
+  top: 115px;
+  left: 248px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-143 {
+  top: 149px;
+  left: 248px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .image {
+  position: absolute;
+  width: 148px;
+  height: 56px;
+  top: 846px;
+  left: 1078px;
+}
+
+.empolyee .text-wrapper-144 {
+  top: 694px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-145 {
+  top: 623px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-146 {
+  top: 657px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-147 {
+  top: 759px;
+  left: 494px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .day {
+  position: absolute;
+  width: 1199px;
+  height: 116px;
+  top: 127px;
+  left: 2px;
+}
+
+.empolyee .overlap-2 {
+  position: relative;
+  width: 1183px;
+  height: 116px;
+}
+
+.empolyee .rectangle-150 {
+  position: absolute;
+  width: 1183px;
+  height: 16px;
+  top: 83px;
+  left: 0;
+  background-color: #84c4ff;
+  box-shadow: inset 1px 1px 3px #00000040;
+}
+
+.empolyee .text-wrapper-148 {
+  position: absolute;
+  top: 66px;
+  left: 203px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-149 {
+  position: absolute;
+  top: 67px;
+  left: 342px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-150 {
+  position: absolute;
+  top: 66px;
+  left: 491px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-151 {
+  position: absolute;
+  top: 66px;
+  left: 629px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-152 {
+  position: absolute;
+  top: 66px;
+  left: 780px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-153 {
+  position: absolute;
+  top: 66px;
+  left: 930px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-154 {
+  position: absolute;
+  top: 66px;
+  left: 1071px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.empolyee .text-wrapper-155 {
+  top: 0;
+  left: 23px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  color: #5b5b5b;
+  font-size: 80px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
